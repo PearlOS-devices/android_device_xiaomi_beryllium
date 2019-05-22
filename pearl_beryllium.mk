@@ -13,7 +13,7 @@ $(call inherit-product, vendor/pearl/config/common.mk)
 PRODUCT_NAME := pearl_beryllium
 PRODUCT_DEVICE := beryllium
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Poco F1
+PRODUCT_MODEL := POCO F1
 PRODUCT_MANUFACTURER := Xiaomi
 
 PEARL_BUILD_TYPE+=OFFICIAL
